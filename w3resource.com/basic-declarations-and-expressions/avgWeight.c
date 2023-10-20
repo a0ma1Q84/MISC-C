@@ -3,7 +3,6 @@
 *                                                                                                       *
 * Exercise 11 : Write a C program that accepts two item's                                               *
 * weight and number of purchases (floating point values) and calculates their average value.            *
-                                                                                                        *
 ********************************************************************************************************/
 
 #include <stdio.h>
